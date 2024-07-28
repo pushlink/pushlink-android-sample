@@ -1,8 +1,10 @@
-.DS_Store
-bin/
-gen/
-/gradle
-.gradle/
-.idea/
 *.iml
+.gradle
+/local.properties
+/.idea/*
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
 local.properties
